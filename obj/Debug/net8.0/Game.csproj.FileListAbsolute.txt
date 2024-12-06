@@ -1,0 +1,15 @@
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.sourcelink.json
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/bin/Debug/net8.0/Game
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/bin/Debug/net8.0/Game.deps.json
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/bin/Debug/net8.0/Game.runtimeconfig.json
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/bin/Debug/net8.0/Game.dll
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/bin/Debug/net8.0/Game.pdb
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.dll
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/refint/Game.dll
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.pdb
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/Game.genruntimeconfig.cache
+/Users/bread/Desktop/UNI/B1 Programming/Exercises/Game/obj/Debug/net8.0/ref/Game.dll
