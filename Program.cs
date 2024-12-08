@@ -17,8 +17,6 @@ using System;
 
 class Program
 {
-
-
     static void Main()
     {
         LeaderBoard leaderboard = new LeaderBoard();
@@ -36,15 +34,11 @@ class Program
         descriptions.Add("it is a body of water");
         while (true)
         {
-            
-        
 
             Console.WriteLine("Let's play a game 'Guess the letter'");
             Console.WriteLine("What's your name?");
             string userName = Console.ReadLine();
             Console.WriteLine($"Hello, {userName}! Let's start!");
-            
-            
             
             int countOfWords = 0;
             foreach (string word in words) // counting words in the list
@@ -82,8 +76,7 @@ class Program
                 while (!wordIsGuessed && numOfAttempts > 0)
                 {
                     bool letterIsCorrect = false;
-
-
+                    
                     string letterInput = Console.ReadLine();
                     char letterToCheck = char.ToUpper(letterInput[0]);
 

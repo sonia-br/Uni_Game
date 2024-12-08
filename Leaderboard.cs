@@ -15,13 +15,11 @@ public class LeaderBoard
     public void AddUser(string username, int points)
     {
         
-        
         for (int i = 0; i < entries.Count; i++) // checking if user exists, .Count - counts the amount of entries
         {
             if (entries[i].Username == username)
             {
-                // Update the user's score
-                entries[i] = (username, entries[i].Points + points);
+                entries[i] = (username, entries[i].Points + points); // updating the points of the user
                 return;
             }
         }
